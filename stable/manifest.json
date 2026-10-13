@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "notes": "新增：在线升级（游戏内自动下载、重启更新）、中文界面",
+  "published_at": "2026-10-13T03:21:59Z",
+  "platforms": {
+    "macos": {
+      "url": "https://github.com/Murphycx94/BattleCity-updates/releases/download/v0.2.0/Tank3D-v0.2.0-macos-universal.zip",
+      "sha256": "35a3d507c506a5bfda101ee4e56166c7c1fead6e832577d788df1fdffd5efa08",
+      "size": 125695365
+    },
+    "windows": {
+      "url": "https://github.com/Murphycx94/BattleCity-updates/releases/download/v0.2.0/Tank3D-v0.2.0-windows-x64.zip",
+      "sha256": "b8b6369759f053e1dc50b012a59b03de5983584888cd0c2aa666f477905f7cc4",
+      "size": 73186219
+    },
+    "linux": {
+      "url": "https://github.com/Murphycx94/BattleCity-updates/releases/download/v0.2.0/Tank3D-v0.2.0-linux-x64.tar.gz",
+      "sha256": "f0a4a4e662b0bdd52a3c655f98f5f7a3632f2f86f27551da88f115f2c5070675",
+      "size": 62287894
+    }
+  }
+}
